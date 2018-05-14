@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\Курсач_БД\project\UserApp\obj\x86\Debug\User.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Курсач_БД\project\UserApp\obj\x86\Debug\project.Form1.resources
+C:\Users\user\Desktop\Курсач_БД\project\UserApp\obj\x86\Debug\User.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Курсач_БД\project\UserApp\obj\x86\Debug\User.csproj.CoreCompileInputs.cache
